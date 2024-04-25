@@ -167,6 +167,28 @@ void A_Star::OutputPath()
     }
 }
 
+// 绘图
+void A_Star::PlotPath()
+{
+    // 创建图形
+    plt::figure();
+
+    // 绘制网格线
+    for (int i = 0; i <= ROW; ++i)
+    {
+        for (int j = 0; j <= COL; ++j)
+        {
+            plt::plot({0, COL}, {i, i}, "k-"); // 水平线
+            plt::plot({j, j}, {0, ROW}, "k-"); // 垂直线
+        }
+    }
+    // // 设置网格线
+    // plt::grid(true);
+
+    // 显示图形
+    plt::show();
+}
+
 // 主函数
 void A_Star::Excute()
 {

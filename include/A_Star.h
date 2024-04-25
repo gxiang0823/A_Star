@@ -78,4 +78,7 @@ public:
 
     // 输出路径
     void OutputPath();
+
+    // 绘图
+    void PlotPath();
 };

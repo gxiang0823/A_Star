@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/guo/CPP_Project/A_Star_Project/main.cpp" "/home/guo/CPP_Project/A_Star_Project/build/CMakeFiles/A_Star.dir/main.cpp.o"
-  "/home/guo/CPP_Project/A_Star_Project/src/A_Star.cpp" "/home/guo/CPP_Project/A_Star_Project/build/CMakeFiles/A_Star.dir/src/A_Star.cpp.o"
+  "/home/guo/Git/A_Star/main.cpp" "/home/guo/Git/A_Star/build/CMakeFiles/A_Star.dir/main.cpp.o"
+  "/home/guo/Git/A_Star/src/A_Star.cpp" "/home/guo/Git/A_Star/build/CMakeFiles/A_Star.dir/src/A_Star.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

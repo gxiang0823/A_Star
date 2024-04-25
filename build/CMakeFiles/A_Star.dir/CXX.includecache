@@ -48,13 +48,13 @@ numpy/arrayobject.h
 opencv2/opencv.hpp
 -
 
-/home/guo/CPP_Project/A_Star_Project/main.cpp
+/home/guo/Git/A_Star/main.cpp
 A_Star.h
-/home/guo/CPP_Project/A_Star_Project/A_Star.h
+/home/guo/Git/A_Star/A_Star.h
 
-/home/guo/CPP_Project/A_Star_Project/src/A_Star.cpp
+/home/guo/Git/A_Star/src/A_Star.cpp
 A_Star.h
-/home/guo/CPP_Project/A_Star_Project/src/A_Star.h
+/home/guo/Git/A_Star/src/A_Star.h
 
 /usr/include/python3.8/Python.h
 patchlevel.h

@@ -4,7 +4,7 @@
 CMakeFiles/A_Star.dir/main.cpp.o
  ../include/A_Star.h
  ../include/matplotlibcpp.h
- /home/guo/CPP_Project/A_Star_Project/main.cpp
+ /home/guo/Git/A_Star/main.cpp
  /usr/include/python3.8/Python.h
  /usr/include/python3.8/abstract.h
  /usr/include/python3.8/bltinmodule.h
@@ -110,7 +110,7 @@ CMakeFiles/A_Star.dir/main.cpp.o
 CMakeFiles/A_Star.dir/src/A_Star.cpp.o
  ../include/A_Star.h
  ../include/matplotlibcpp.h
- /home/guo/CPP_Project/A_Star_Project/src/A_Star.cpp
+ /home/guo/Git/A_Star/src/A_Star.cpp
  /usr/include/python3.8/Python.h
  /usr/include/python3.8/abstract.h
  /usr/include/python3.8/bltinmodule.h

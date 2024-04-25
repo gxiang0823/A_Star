@@ -6,5 +6,5 @@ CXX_FLAGS =   -std=gnu++11
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/guo/CPP_Project/A_Star_Project/include -I/usr/include/python3.8 
+CXX_INCLUDES = -I/home/guo/Git/A_Star/include -I/usr/include/python3.8 
 
