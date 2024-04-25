@@ -182,8 +182,8 @@ void A_Star::PlotPath()
             plt::plot({j, j}, {0, ROW}, "k-"); // 垂直线
         }
     }
-    // // 设置网格线
-    // plt::grid(true);
+    // 设置网格线
+    plt::grid(true);
 
     // 显示图形
     plt::show();
@@ -207,4 +207,5 @@ void A_Star::Excute()
     A_Star::OutputPath();
 
     // 绘图
+    A_Star::PlotPath();
 }

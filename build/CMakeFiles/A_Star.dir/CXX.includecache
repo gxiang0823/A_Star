@@ -48,10 +48,6 @@ numpy/arrayobject.h
 opencv2/opencv.hpp
 -
 
-/home/guo/Git/A_Star/main.cpp
-A_Star.h
-/home/guo/Git/A_Star/A_Star.h
-
 /home/guo/Git/A_Star/src/A_Star.cpp
 A_Star.h
 /home/guo/Git/A_Star/src/A_Star.h
