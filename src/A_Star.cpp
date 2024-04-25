@@ -178,10 +178,11 @@ void A_Star::PlotPath()
     {
         for (int j = 0; j <= COL; ++j)
         {
-            plt::plot({0, COL}, {i, i}, "k-"); // 水平线
-            plt::plot({j, j}, {0, ROW}, "k-"); // 垂直线
+            plt::plot({0, COL}, {double(i), double(i)}, "k-"); // 水平线
+            plt::plot({double(j), double(j)}, {0, ROW}, "k-"); // 垂直线
         }
     }
+
     // 设置网格线
     plt::grid(true);
 

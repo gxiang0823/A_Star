@@ -18,13 +18,5 @@ int main(int argv, char **argc)
     A_Star astar(grid, start, end);
     astar.Excute();
 
-    // vector<int> x, y;
-    // for (const auto &point : path)
-    // {
-    //     x.push_back((point.first + 0.5));
-    //     y.push_back((point.second + 0.5));
-    // }
-    // plt::plot(x, y);
-
     return 0;
 }
